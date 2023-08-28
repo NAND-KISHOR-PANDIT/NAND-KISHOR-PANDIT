@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to see you!!
 
-## Hello I'm Nand.
+## Hello 	:raising_hand_man: I'm Nand.
 
 - 🔭 I’m currently working on small part of something new/unique solution
 - 🌱 I’m currently learning Java, Backend Java with sprint boot
