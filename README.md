@@ -1,4 +1,4 @@
-### Hi there 👋 ### Nice to see you!!
+### Hi there 👋 Nice to see you!!
 
 ## Hello I'm Nand.
 
@@ -11,5 +11,8 @@
 - 😄 Pronouns: Nand  ...
 - ⚡ Fun fact: Easily get boared of repeatitve work Love to do something unique everytime everyday...
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAND-KISHOR-PANDIT&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=NAND-KISHOR-PANDIT&theme=algolia&show_icons=true)](https://github.com/NAND-KISHOR-PANDIT)
 ![Nand's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAND-KISHOR-PANDIT&show_icons=true&theme=radical)
+
+
